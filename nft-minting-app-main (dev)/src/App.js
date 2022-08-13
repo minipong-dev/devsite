@@ -419,15 +419,12 @@ function App() {
 
                 <div class="flexbox-container">
                     <div class="flexbox-item flexbox-item-1">
-                        <StyledImg alt={"example"} src={"/config/images/lambo.jpeg"} />
-                    </div>
-                    <div class="flexbox-item flexbox-item-1">
                         <s.TextDescription
 
                             style={{
                                 textAlign: "center",
                                 color: "white",
-                                fontWeight: "normal",
+                                fontWeight: "bold",
                                 fontFamily: "customfont",
                                 fontSize: "32px"
                             }}
