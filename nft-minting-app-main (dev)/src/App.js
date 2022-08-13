@@ -437,22 +437,20 @@ function App() {
                             (just kidding. we're not that cringe)<br/>
                         </s.TextDescription>
                     </div>
-                    <s.SpacerLarge/>
-                    <s.SpacerLarge/>
-                    <s.SpacerLarge/>
-                    <s.SpacerLarge/>
-                    <s.SpacerLarge/>
-                    <div class="flexbox-item">
-                        <DownImg src="/config/images/down.png" />
-                    </div>
                 </div>
 
-
-
                 <ResponsiveWrapper flex={1} style={{ padding: 25 }} test>
+                    <s.SpacerLarge/>
+                    <s.SpacerLarge/>
+                    <s.SpacerLarge/>
+                    <s.SpacerLarge/>
+                    <s.SpacerLarge/>
                     <s.Container flex={1} jc={"center"} ai={"center"}>
 
                     </s.Container>
+                        <br />
+                        <DownImg src="/config/images/down.png" />
+                        <br />
                     <s.Container
 
                         flex={1}
