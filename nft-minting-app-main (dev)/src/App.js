@@ -436,7 +436,9 @@ function App() {
                         >
                             (just kidding. we're not that cringe)<br/>
                         </s.TextDescription>
-                        <s.SpacerSmall />
+                        <DownImg src="/config/images/down.png" />
+                        <s.SpacerLarge/>
+                        <s.SpacerLarge />
                     </div>
                 </div>
 
@@ -446,9 +448,6 @@ function App() {
                     <s.Container flex={1} jc={"center"} ai={"center"}>
 
                     </s.Container>
-                    <s.SpacerLarge />
-                    <DownImg src="/config/images/down.png" />
-                    <s.SpacerSmall />
                     <s.Container
 
                         flex={1}
