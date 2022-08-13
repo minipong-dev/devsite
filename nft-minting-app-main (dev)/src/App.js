@@ -442,12 +442,13 @@ function App() {
 
 
 
-                <s.SpacerSmall />
                 <ResponsiveWrapper flex={1} style={{ padding: 25 }} test>
                     <s.Container flex={1} jc={"center"} ai={"center"}>
 
                     </s.Container>
                     <s.SpacerLarge />
+                    <DownImg src="/config/images/down.png" />
+                    <s.SpacerSmall />
                     <s.Container
 
                         flex={1}
@@ -530,12 +531,6 @@ function App() {
 
                     >
                         
-                        <br />
-                        <br />
-                        <DownImg src="/config/images/down.png" />
-                        <br />
-                        <br />
-                        <br />
                         <br />
                         <a target="_blank" href="https://twitter.com/ViperwareLabs">
                             <LogoButtonImg src="/config/images/TWIT_LOGO.png" />
