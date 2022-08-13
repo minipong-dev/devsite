@@ -84,8 +84,8 @@ export const LogoButtonImg = styled.img`
 export const DownImg = styled.img`
 
   margin: 20px;
-  width: 72px;
-  height: 72px;
+  width: 60px;
+  height: 60px;
 
 `;
 
@@ -516,7 +516,7 @@ function App() {
 
 
                     </s.TextDescription>
-                    
+
                     <s.SpacerLarge/>
                     <s.SpacerLarge/>
 
