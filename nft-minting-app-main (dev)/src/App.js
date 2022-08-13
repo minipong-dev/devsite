@@ -65,9 +65,9 @@ export const ResponsiveWrapper = styled.div`
 `;
 
 export const StyledLogo = styled.img`
-  width: 70%;
-  @media (min-width: 767px) {
-    width: 500px;
+  width: 50%;
+  @media (min-width: 700px) {
+    width: 350px;
   }
   transition: width 0.5s;
   transition: height 0.5s;
@@ -405,12 +405,14 @@ function App() {
                     }}
                 >
 
-                    <br />
                     <StyledLogo alt={"logo"} src={"/config/images/ViperwareLogo.png"} />
-                    <br />
 
 
                 </s.TextTitle>
+
+                <s.SpacerLarge/>
+                <s.SpacerLarge/>
+                <s.SpacerLarge/>
 
                 <div class="flexbox-container">
                     <div class="flexbox-item flexbox-item-1">
