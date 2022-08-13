@@ -37,13 +37,6 @@
   padding: 30px;
 }
 
-.wrapper {
-  height: 100vh;
-  /*This part is important for centering*/
-  display: grid;
-  place-items: center;
-}
-
 .typing-gm {
   width: 22ch;
   animation: typing 2s steps(22), blink .5s step-end infinite alternate;
