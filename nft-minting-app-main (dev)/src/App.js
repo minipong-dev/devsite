@@ -423,7 +423,7 @@ function App() {
                         </s.TextDescription>
                     </div>
                     <s.SpacerLarge />
-                    <div class="flexbox-item typing-gm">
+                    <div class="flexbox-item">
                         <s.TextDescription
 
                             style={{
