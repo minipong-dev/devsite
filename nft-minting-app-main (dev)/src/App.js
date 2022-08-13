@@ -436,9 +436,11 @@ function App() {
                         >
                             (just kidding. we're not that cringe)<br/>
                         </s.TextDescription>
+                    </div>
+                    <s.SpacerLarge/>
+                    <s.SpacerLarge />
+                    <div class="flexbox-item">
                         <DownImg src="/config/images/down.png" />
-                        <s.SpacerLarge/>
-                        <s.SpacerLarge />
                     </div>
                 </div>
 
