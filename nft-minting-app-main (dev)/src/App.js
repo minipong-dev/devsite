@@ -81,6 +81,14 @@ export const LogoButtonImg = styled.img`
 
 `;
 
+export const DownImg = styled.img`
+
+  margin: 20px;
+  width: 72px;
+  height: 72px;
+
+`;
+
 export const StyledImg = styled.img`
 
   border-radius: 50px;
@@ -362,27 +370,7 @@ function App() {
 
     //You have minted {data.mintedCount(blockchain.account)}            Ξ
 
-    //
-    //<img alt="logo" src="/config/images/logo.png">
-    //<StyledImg alt={"example"} src={"/config/images/example.gif"} /> LINE 310
 
-
-    /*
-        <s.Container ai={"center"} jc={"center"} fd={"row"}>
-            <StyledButton
-                disabled={claimingNft ? 1 : 0}
-                onClick={(e) => {
-                    e.preventDefault();
-                    claimFreeNFTs();
-                    getData();
-                }}
-            >
-                {claimingNft ? "PROCESSING" : "1 FREE MINT"}
-            </StyledButton>
-        </s.Container>
-
-        <s.SpacerSmall />
-    */
     return (
         <s.Screen>
             <s.Container
@@ -541,8 +529,12 @@ function App() {
                         }}
 
                     >
-
-
+                        
+                        <br />
+                        <br />
+                        <DownImg src="/config/images/down.png" />
+                        <br />
+                        <br />
                         <br />
                         <br />
                         <a target="_blank" href="https://twitter.com/ViperwareLabs">
