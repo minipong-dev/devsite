@@ -393,7 +393,10 @@ function App() {
 
 
             >
-
+                
+                <s.SpacerLarge/>
+                <s.SpacerLarge/>
+                <s.SpacerLarge/>
 
                 <s.TextTitle
                     style={{
