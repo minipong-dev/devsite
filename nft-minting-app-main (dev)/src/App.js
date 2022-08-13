@@ -408,9 +408,8 @@ function App() {
                 <s.SpacerLarge/>
 
                 <div class="flexbox-container">
-                    <div class="flexbox-item typing-gm">
+                    <div class="flexbox-item">
                         <s.TextDescription
-
                             style={{
                                 textAlign: "center",
                                 color: "white",
@@ -419,7 +418,9 @@ function App() {
                                 fontSize: "72px"
                             }}
                         >
-                            gm. wagmi.
+                            <div class="typing-gm">
+                                gm. wagmi.
+                            </div>
                         </s.TextDescription>
                     </div>
                     <s.SpacerLarge />
