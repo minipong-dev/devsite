@@ -389,7 +389,7 @@ function App() {
                 flex={1}
                 ai={"center"}
 
-                image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
+                //image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
 
 
             >
