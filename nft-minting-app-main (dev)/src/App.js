@@ -414,8 +414,7 @@ function App() {
                                 textAlign: "center",
                                 color: "white",
                                 fontWeight: "bold",
-                                fontFamily: "customfont",
-                                fontSize: "72px"
+                                fontFamily: "customfont"
                             }}
                         >
                             <div class="typing-gm">

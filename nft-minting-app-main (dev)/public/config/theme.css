@@ -38,10 +38,17 @@
 }
 
 .typing-gm {
-  width: 10ch;
+  width: 10.3ch;
   animation: typing 2s steps(10), blink .5s step-end infinite alternate;
   overflow: hidden;
   border-right: 3px solid;
+  font-size: 72px;
+}
+
+@media (max-width: 400px) {
+  .typing-gm {
+    font-size: 32px;
+  }
 }
 
 @keyframes typing {
