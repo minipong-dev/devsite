@@ -418,7 +418,7 @@ function App() {
                 <s.SpacerLarge/>
 
                 <div class="flexbox-container">
-                    <div class="flexbox-item flexbox-item-1">
+                    <div class="flexbox-item">
                         <s.TextDescription
 
                             style={{
@@ -426,11 +426,23 @@ function App() {
                                 color: "white",
                                 fontWeight: "bold",
                                 fontFamily: "customfont",
+                                fontSize: "72px"
+                            }}
+                        >
+                            gm. wagmi.<br/>
+                        </s.TextDescription>
+                        <s.SpacerSmall />
+                        <s.TextDescription
+
+                            style={{
+                                textAlign: "center",
+                                color: "white",
+                                fontWeight: "normal",
+                                fontFamily: "customfont",
                                 fontSize: "32px"
                             }}
                         >
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+                            (just kidding. we're not that cringe)<br/>
                         </s.TextDescription>
                     </div>
                 </div>
