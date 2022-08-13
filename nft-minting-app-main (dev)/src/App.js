@@ -416,6 +416,8 @@ function App() {
                 <s.SpacerLarge/>
                 <s.SpacerLarge/>
                 <s.SpacerLarge/>
+                <s.SpacerLarge/>
+                <s.SpacerLarge/>
 
                 <div class="flexbox-container">
                     <div class="flexbox-item">
@@ -439,7 +441,7 @@ function App() {
                                 color: "white",
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
-                                fontSize: "32px"
+                                fontSize: "28px"
                             }}
                         >
                             (just kidding. we're not that cringe)<br/>
