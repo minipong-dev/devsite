@@ -438,7 +438,10 @@ function App() {
                         </s.TextDescription>
                     </div>
                     <s.SpacerLarge/>
-                    <s.SpacerLarge />
+                    <s.SpacerLarge/>
+                    <s.SpacerLarge/>
+                    <s.SpacerLarge/>
+                    <s.SpacerLarge/>
                     <div class="flexbox-item">
                         <DownImg src="/config/images/down.png" />
                     </div>
@@ -492,9 +495,7 @@ function App() {
                             }}
                         >
                         </s.TextDescription>
-                        <s.SpacerMedium />
                     </s.Container>
-                    <s.SpacerLarge />
                     <s.Container flex={1} jc={"center"} ai={"center"}>
 
                     </s.Container>
