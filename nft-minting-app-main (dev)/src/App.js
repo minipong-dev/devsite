@@ -431,9 +431,11 @@ function App() {
                                 fontSize: "72px"
                             }}
                         >
-                            gm. wagmi.<br/>
+                            gm. wagmi.
                         </s.TextDescription>
-                        <s.SpacerSmall />
+                    </div>
+                    <s.SpacerLarge />
+                    <div class="flexbox-item">
                         <s.TextDescription
 
                             style={{
@@ -441,11 +443,12 @@ function App() {
                                 color: "white",
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
-                                fontSize: "28px"
+                                fontSize: "30px"
                             }}
                         >
                             (just kidding. we're not that cringe)<br/>
                         </s.TextDescription>
+                        <s.SpacerSmall />
                     </div>
                 </div>
 
