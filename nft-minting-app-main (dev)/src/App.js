@@ -444,13 +444,9 @@ function App() {
                     <s.SpacerLarge/>
                     <s.SpacerLarge/>
                     <s.SpacerLarge/>
-                    <s.SpacerLarge/>
                     <s.Container flex={1} jc={"center"} ai={"center"}>
 
                     </s.Container>
-                        <br />
-                        <DownImg src="/config/images/down.png" />
-                        <br />
                     <s.Container
 
                         flex={1}
@@ -465,22 +461,7 @@ function App() {
                         }}
                     >
 
-                        <s.TextTitle
-
-                            style={{
-                                textAlign: "center",
-                                fontSize: 40,
-                                fontWeight: "normal",
-                                color: "var(--accent-text)",
-                                fontFamily: "customfont",
-
-                            }}
-                        >
-
-                            <br />
-                            <br />
-
-                        </s.TextTitle>
+                        
                         <s.TextDescription
 
                             style={{
@@ -500,6 +481,25 @@ function App() {
                 </ResponsiveWrapper>
                 <s.Container jc={"center"} ai={"left"} style={{ width: "90%" }}>
 
+                    
+                    <s.TextTitle
+
+                            style={{
+                                textAlign: "center",
+                                fontSize: 40,
+                                fontWeight: "normal",
+                                color: "var(--accent-text)",
+                                fontFamily: "customfont",
+
+                            }}
+                        >
+                            
+                            <br />
+                            <DownImg src="/config/images/down.png" />
+                            <br />  
+
+                    </s.TextTitle>
+                    
                     <s.TextDescription
 
                         style={{
@@ -516,6 +516,9 @@ function App() {
 
 
                     </s.TextDescription>
+                    
+                    <s.SpacerLarge/>
+                    <s.SpacerLarge/>
 
 
                     <s.TextDescription
