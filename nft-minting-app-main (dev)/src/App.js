@@ -4,6 +4,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { fetchData } from "./redux/data/dataActions";
 import * as s from "./styles/globalStyles";
 import styled from "styled-components";
+//import './App.css';
 
 
 const truncate = (input, len) =>
