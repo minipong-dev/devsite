@@ -1,9 +1,10 @@
 import React, { useEffect, useState, useRef } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { connect } from "./redux/blockchain/blockchainActions";
+//import { connect } from "./redux/blockchain/blockchainActions";
 import { fetchData } from "./redux/data/dataActions";
 import * as s from "./styles/globalStyles";
 import styled from "styled-components";
+
 
 const truncate = (input, len) =>
     input.length > len ? `${input.substring(0, len)}...` : input;
@@ -547,46 +548,46 @@ function App() {
                     <s.Container>
                     </s.Container>
                     <div class="container">
-  <h1 class="text-center">Portfolio</h1>
-  <div class="gallery">
-    <div class="view overlay hm-black-light gallery-item">
-      <img src="https://placeimg.com/640/480/arch" alt="Placeholder Image" class="img-fluid"/>
-      <div class="mask flex-center">
-        <p class="white-text">Gallery Item</p>
-      </div>
-    </div>
-    <div class="view overlay hm-black-light gallery-item">
-      <img src="https://placeimg.com/640/480/any" alt="Placeholder Image" class="img-fluid"/>
-      <div class="mask flex-center">
-        <p class="white-text">Gallery Item</p>
-      </div>
-    </div>
-    <div class="view overlay hm-black-light gallery-item">
-      <img src="https://placeimg.com/640/480/tech" alt="Placeholder Image" class="img-fluid"/>
-      <div class="mask flex-center">
-        <p class="white-text">Gallery Item</p>
-      </div>
-    </div>
-    <div class="view overlay hm-black-light gallery-item">
-      <img src="https://placeimg.com/640/480/animals" alt="Placeholder Image" class="img-fluid"/>
-      <div class="mask flex-center">
-        <p class="white-text">Gallery Item</p>
-      </div>
-    </div>
-    <div class="view overlay hm-black-light gallery-item">
-      <img src="https://placeimg.com/640/480/people" alt="Placeholder Image" class="img-fluid"/>
-      <div class="mask flex-center">
-        <p class="white-text">Gallery Item</p>
-      </div>
-    </div>
-    <div class="view overlay hm-black-light gallery-item">
-      <img src="https://placeimg.com/640/480/any" alt="Placeholder Image" class="img-fluid"/>
-      <div class="mask flex-center">
-        <p class="white-text">Gallery Item</p>
-      </div>
-    </div>
-  </div>
-</div>
+                    <h1 class="text-center">Portfolio</h1>
+                    <div class="gallery">
+                        <div class="view overlay hm-black-light gallery-item">
+                        <img src="https://placeimg.com/640/480/arch" alt="Placeholder Image" class="img-fluid"/>
+                        <div class="mask flex-center">
+                            <p class="white-text">Gallery Item</p>
+                        </div>
+                        </div>
+                        <div class="view overlay hm-black-light gallery-item">
+                        <img src="https://placeimg.com/640/480/any" alt="Placeholder Image" class="img-fluid"/>
+                        <div class="mask flex-center">
+                            <p class="white-text">Gallery Item</p>
+                        </div>
+                        </div>
+                        <div class="view overlay hm-black-light gallery-item">
+                        <img src="https://placeimg.com/640/480/tech" alt="Placeholder Image" class="img-fluid"/>
+                        <div class="mask flex-center">
+                            <p class="white-text">Gallery Item</p>
+                        </div>
+                        </div>
+                        <div class="view overlay hm-black-light gallery-item">
+                        <img src="https://placeimg.com/640/480/animals" alt="Placeholder Image" class="img-fluid"/>
+                        <div class="mask flex-center">
+                            <p class="white-text">Gallery Item</p>
+                        </div>
+                        </div>
+                        <div class="view overlay hm-black-light gallery-item">
+                        <img src="https://placeimg.com/640/480/people" alt="Placeholder Image" class="img-fluid"/>
+                        <div class="mask flex-center">
+                            <p class="white-text">Gallery Item</p>
+                        </div>
+                        </div>
+                        <div class="view overlay hm-black-light gallery-item">
+                        <img src="https://placeimg.com/640/480/any" alt="Placeholder Image" class="img-fluid"/>
+                        <div class="mask flex-center">
+                            <p class="white-text">Gallery Item</p>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
 
                 </s.Container>
                 <s.SpacerMedium />
