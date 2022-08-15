@@ -451,7 +451,6 @@ function App() {
                             }}
                         >
                             (just kidding. we're not that cring<br/>
-                            <br/>
                             <a target="_blank" href="https://twitter.com/ViperwareLabs">
                                 <LogoButtonImg src="/config/images/TWIT_LOGO.png" />
                             </a>
@@ -460,9 +459,6 @@ function App() {
                 </div>
 
                 <ResponsiveWrapper flex={1} style={{ padding: 25 }} test>
-                    <s.SpacerLarge/>
-                    <s.SpacerLarge/>
-                    <s.SpacerLarge/>
                     <s.SpacerLarge/>
                     <s.Container flex={1} jc={"center"} ai={"center"}>
 
@@ -493,7 +489,13 @@ function App() {
 
                             }}
                         >
+
+                            <DownImg src="/config/images/down.png" />
+
                         </s.TextDescription>
+                        <s.SpacerLarge/>
+                        <s.SpacerLarge/>
+                        <s.SpacerLarge/>
                     </s.Container>
                     <s.Container flex={1} jc={"center"} ai={"center"}>
 
@@ -515,7 +517,6 @@ function App() {
                         >
                             
                             <br />  
-                            <DownImg src="/config/images/down.png" />
                             <br />
                             <br />
                             <br />
