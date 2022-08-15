@@ -563,7 +563,7 @@ function App() {
                     <s.Container>
                     </s.Container>
                     <div class="container">
-                    <h1 class="text-center text-white">Recent Works</h1>
+                    <h1 class="text-center txt-white">Recent Works</h1>
                     <div class="gallery">
                         <GalleryItem class="view overlay hm-black-light">
                             <img src="https://placeimg.com/640/480/arch" alt="Placeholder Image" class="img-fluid gallery-item"/>
