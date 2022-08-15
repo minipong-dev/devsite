@@ -88,6 +88,9 @@ export const DownImg = styled.img`
   margin: 20px;
   width: 60px;
   height: 60px;
+  @media (max-width: 500px) {
+    visibility:hidden;
+  }
 
 `;
 
