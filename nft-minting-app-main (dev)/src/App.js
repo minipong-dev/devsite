@@ -450,7 +450,8 @@ function App() {
                                 color: "white",
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
-                                fontSize: "30px"
+                                fontSize: "20px",
+                                margin: "0px 25px 0px 25px"
                             }}
                         >
                             (just kidding. we're not that cringe)<br/>
