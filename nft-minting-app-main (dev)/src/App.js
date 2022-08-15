@@ -510,9 +510,14 @@ function App() {
                             }}
                         >
                             
+                            <br />  
+                            <br />  
+                            <a target="_blank" href="https://twitter.com/ViperwareLabs">
+                                <LogoButtonImg src="/config/images/TWIT_LOGO.png" />
+                            </a>
+                            <br />
                             <br />
                             <DownImg src="/config/images/down.png" />
-                            <br />  
 
                     </s.TextTitle>
                     
@@ -550,11 +555,6 @@ function App() {
 
                     >
                         
-                        <br />
-                        <a target="_blank" href="https://twitter.com/ViperwareLabs">
-                            <LogoButtonImg src="/config/images/TWIT_LOGO.png" />
-                        </a>
-                        <br />
                         <br />
 
 
