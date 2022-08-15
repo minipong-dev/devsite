@@ -460,69 +460,7 @@ function App() {
                     </div>
                 </div>
 
-                <ResponsiveWrapper flex={1} style={{ padding: 25 }} test>
-                    <s.SpacerLarge/>
-                    <s.Container flex={1} jc={"center"} ai={"center"}>
-
-                    </s.Container>
-                    <s.Container
-
-                        flex={1}
-                        jc={"center"}
-                        ai={"center"}
-                        style={{
-                            backgroundColor: "(255,255,255)",
-                            padding: 10,
-                            borderRadius: 90,
-                            border: "0px solid var(--secondary)",
-                            boxShadow: "10px 10px 100px 10px rgba	(255,255,255)",
-                        }}
-                    >
-
-                        
-                        <s.TextDescription
-
-                            style={{
-                                textAlign: "center",
-                                color: "white",
-                                fontWeight: "normal",
-                                fontFamily: "customfont",
-                                fontSize: "14px"
-
-                            }}
-                        >
-
-
-                        </s.TextDescription>
-                        <s.SpacerLarge/>
-                        <s.SpacerLarge/>
-                        <s.SpacerLarge/>
-                    </s.Container>
-                    <s.Container flex={1} jc={"center"} ai={"center"}>
-
-                    </s.Container>
-                </ResponsiveWrapper>
                 <s.Container jc={"center"} ai={"left"} style={{ width: "90%" }}>
-
-                    
-                    <s.TextTitle
-
-                            style={{
-                                textAlign: "center",
-                                fontSize: 40,
-                                fontWeight: "normal",
-                                color: "var(--accent-text)",
-                                fontFamily: "customfont",
-
-                            }}
-                        >
-                            
-                            <br />  
-                            <br />
-                            <br />
-                            <br />
-
-                    </s.TextTitle>
                     
                     <s.TextDescription
 
