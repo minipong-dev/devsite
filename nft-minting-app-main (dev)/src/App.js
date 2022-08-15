@@ -521,21 +521,24 @@ function App() {
                     </s.TextDescription>
                     <s.SpacerMedium />
                     <div class="gallery">
-                        <GalleryItem href="https://boredapeyachtclub.com" class="view overlay hm-black-light">
-                            <img src="/config/images/BAYC.png" alt="Placeholder Image" class="img-fluid gallery-item"/>
-                            <s.TextDescription
-                            style={{
-                                textAlign: "center",
-                                color: "white",
-                                fontWeight: "normal",
-                                fontFamily: "customfont",
-                                fontSize: "24px",
-                                padding: "0px 0px 30px 0px"
-                            }}
-                            >
-                                    Bored Ape Yacht Club
-                            </s.TextDescription>  
-                        </GalleryItem>
+                        <a href="https://boredapeyachtclub.com" class="gallery-link">
+                            <GalleryItem href="https://boredapeyachtclub.com" class="view overlay hm-black-light">
+                                <img src="/config/images/BAYC.png" alt="Placeholder Image" class="img-fluid gallery-item"/>
+                                <s.TextDescription
+                                style={{
+                                    textAlign: "center",
+                                    color: "white",
+                                    fontWeight: "normal",
+                                    fontFamily: "customfont",
+                                    fontSize: "24px",
+                                    padding: "0px 0px 30px 0px"
+                                }}
+                                >
+                                        Bored Ape Yacht Club
+                                </s.TextDescription>  
+                            </GalleryItem>
+                        </a>
+                        <a href="https://boredapeyachtclub.com" class="gallery-link">
                         <GalleryItem href="https://boredapeyachtclub.com" class="view overlay hm-black-light">
                             <img src="/config/images/NoNecks.png" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <s.TextDescription
@@ -551,6 +554,8 @@ function App() {
                                    No Necks
                             </s.TextDescription>  
                         </GalleryItem>
+                        </a>
+                        <a href="https://boredapeyachtclub.com" class="gallery-link">
                         <GalleryItem href="https://boredapeyachtclub.com" class="view overlay hm-black-light">
                             <img src="/config/images/CoolCats.png" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <s.TextDescription
@@ -566,6 +571,8 @@ function App() {
                                     Cool Cats
                             </s.TextDescription>  
                         </GalleryItem>
+                        </a>
+                        <a href="https://boredapeyachtclub.com" class="gallery-link">
                         <GalleryItem href="https://boredapeyachtclub.com" class="view overlay hm-black-light">
                             <img src="/config/images/Mosaicbirds.png" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <s.TextDescription
@@ -581,6 +588,8 @@ function App() {
                                     Mosaicbirds
                             </s.TextDescription>  
                         </GalleryItem>
+                        </a>
+                        <a href="https://boredapeyachtclub.com" class="gallery-link">
                         <GalleryItem href="https://boredapeyachtclub.com" class="view overlay hm-black-light">
                             <img src="/config/images/Doodles.png" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <s.TextDescription
@@ -596,6 +605,8 @@ function App() {
                                     Doodles
                             </s.TextDescription>  
                         </GalleryItem>
+                        </a>
+                        <a href="https://boredapeyachtclub.com" class="gallery-link">
                         <GalleryItem href="https://boredapeyachtclub.com" class="view overlay hm-black-light">
                             <img src="/config/images/Moonbirds.png" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <s.TextDescription
@@ -611,6 +622,7 @@ function App() {
                                     Moonbirds
                             </s.TextDescription>  
                         </GalleryItem>
+                        </a>
                     </div>
                     </div>
 
