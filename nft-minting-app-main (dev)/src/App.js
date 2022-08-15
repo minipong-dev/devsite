@@ -584,7 +584,7 @@ function App() {
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
                                 fontSize: "24px",
-                                padding: "25px 50px 75px 100px"
+                                padding: "0px 0px 30px 0px"
                             }}
                             >
                                     Project Name
@@ -599,7 +599,7 @@ function App() {
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
                                 fontSize: "24px",
-                                padding: "25px 50px 75px 100px"
+                                padding: "0px 0px 30px 0px"
                             }}
                             >
                                     Project Name
@@ -614,7 +614,7 @@ function App() {
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
                                 fontSize: "24px",
-                                padding: "25px 50px 75px 100px"
+                                padding: "0px 0px 30px 0px"
                             }}
                             >
                                     Project Name
@@ -629,7 +629,7 @@ function App() {
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
                                 fontSize: "24px",
-                                padding: "25px 50px 75px 100px"
+                                padding: "0px 0px 30px 0px"
                             }}
                             >
                                     Project Name
@@ -644,7 +644,7 @@ function App() {
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
                                 fontSize: "24px",
-                                padding: "25px 50px 75px 100px"
+                                padding: "0px 0px 30px 0px"
                             }}
                             >
                                     Project Name
@@ -659,7 +659,7 @@ function App() {
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
                                 fontSize: "24px",
-                                padding: "25px 50px 75px 100px"
+                                padding: "0px 0px 30px 0px"
                             }}
                             >
                                     Project Name
