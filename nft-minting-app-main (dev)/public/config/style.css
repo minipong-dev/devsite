@@ -85,6 +85,7 @@
 .gallery-item {
   max-width: 100%;
   border-radius: 20px;
+  border: 0px #ffffff solid;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
   transition: all 0.3s;
 }
