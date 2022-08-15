@@ -78,6 +78,7 @@
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
   transition: all 0.3s;
 }
+
 .gallery-item:hover {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.8);
 }/*# sourceMappingURL=style.css.map */
