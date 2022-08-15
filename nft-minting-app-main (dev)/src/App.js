@@ -92,7 +92,6 @@ export const DownImg = styled.img`
 `;
 
 export const GalleryItem = styled.div`
-
     max-width: 100%;
     border-radius: 20px;
     box-shadow: 0 5px 20px rgba(0,0,0,0.5);
@@ -567,37 +566,37 @@ function App() {
                     <h1 class="text-center">Portfolio</h1>
                     <div class="gallery">
                         <GalleryItem class="view overlay hm-black-light">
-                            <img src="https://placeimg.com/640/480/arch" alt="Placeholder Image" class="img-fluid"/>
+                            <img src="https://placeimg.com/640/480/arch" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <div class="mask flex-center">
                                 <p class="white-text">Gallery Item</p>
                             </div>
                         </GalleryItem>
                         <GalleryItem class="view overlay hm-black-light">
-                            <img src="https://placeimg.com/640/480/any" alt="Placeholder Image" class="img-fluid"/>
+                            <img src="https://placeimg.com/640/480/any" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <div class="mask flex-center">
                                 <p class="white-text">Gallery Item</p>
                             </div>
                         </GalleryItem>
                         <GalleryItem class="view overlay hm-black-light">
-                            <img src="https://placeimg.com/640/480/tech" alt="Placeholder Image" class="img-fluid"/>
+                            <img src="https://placeimg.com/640/480/tech" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <div class="mask flex-center">
                                 <p class="white-text">Gallery Item</p>
                             </div>
                         </GalleryItem>
                         <GalleryItem class="view overlay hm-black-light">
-                            <img src="https://placeimg.com/640/480/animals" alt="Placeholder Image" class="img-fluid"/>
+                            <img src="https://placeimg.com/640/480/animals" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <div class="mask flex-center">
                                 <p class="white-text">Gallery Item</p>
                             </div>
                         </GalleryItem>
                         <GalleryItem class="view overlay hm-black-light">
-                            <img src="https://placeimg.com/640/480/people" alt="Placeholder Image" class="img-fluid"/>
+                            <img src="https://placeimg.com/640/480/people" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <div class="mask flex-center">
                                 <p class="white-text">Gallery Item</p>
                             </div>
                         </GalleryItem>
                         <GalleryItem class="view overlay hm-black-light">
-                            <img src="https://placeimg.com/640/480/any" alt="Placeholder Image" class="img-fluid"/>
+                            <img src="https://placeimg.com/640/480/any" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <div class="mask flex-center">
                                 <p class="white-text">Gallery Item</p>
                             </div>
