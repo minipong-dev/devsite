@@ -559,7 +559,6 @@ function App() {
 
 
                     </s.TextDescription>
-                    <s.SpacerMedium />
                     <s.Container>
                     </s.Container>
                     <div class="container">
@@ -574,6 +573,7 @@ function App() {
                         >
                                 Recent Works
                     </s.TextDescription>
+                    <s.SpacerMedium />
                     <div class="gallery">
                         <GalleryItem class="view overlay hm-black-light">
                             <img src="https://placeimg.com/640/480/arch" alt="Placeholder Image" class="img-fluid gallery-item"/>
@@ -583,7 +583,8 @@ function App() {
                                 color: "white",
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
-                                fontSize: "32px"
+                                fontSize: "24px",
+                                padding: "25px 50px 75px 100px"
                             }}
                             >
                                     Project Name
@@ -597,7 +598,8 @@ function App() {
                                 color: "white",
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
-                                fontSize: "32px"
+                                fontSize: "24px",
+                                padding: "25px 50px 75px 100px"
                             }}
                             >
                                     Project Name
@@ -611,7 +613,8 @@ function App() {
                                 color: "white",
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
-                                fontSize: "32px"
+                                fontSize: "24px",
+                                padding: "25px 50px 75px 100px"
                             }}
                             >
                                     Project Name
@@ -625,7 +628,8 @@ function App() {
                                 color: "white",
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
-                                fontSize: "32px"
+                                fontSize: "24px",
+                                padding: "25px 50px 75px 100px"
                             }}
                             >
                                     Project Name
@@ -639,7 +643,8 @@ function App() {
                                 color: "white",
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
-                                fontSize: "32px"
+                                fontSize: "24px",
+                                padding: "25px 50px 75px 100px"
                             }}
                             >
                                     Project Name
@@ -653,7 +658,8 @@ function App() {
                                 color: "white",
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
-                                fontSize: "32px"
+                                fontSize: "24px",
+                                padding: "25px 50px 75px 100px"
                             }}
                             >
                                     Project Name
