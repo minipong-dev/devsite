@@ -63,8 +63,16 @@
   margin: 2rem auto;
 }
 
-.txt-white {
+.portfolio-title {
+  font: customfont;
   color: white;
+  text-align: center;
+}
+
+.portfolio-subtitle {
+  font: customfont;
+  color: white;
+  text-align: center;
 }
 
 .gallery {

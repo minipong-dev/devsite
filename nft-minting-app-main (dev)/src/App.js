@@ -563,43 +563,101 @@ function App() {
                     <s.Container>
                     </s.Container>
                     <div class="container">
-                    <h1 class="text-center txt-white">Recent Works</h1>
+                    <s.TextDescription
+                            style={{
+                                textAlign: "center",
+                                color: "white",
+                                fontWeight: "bold",
+                                fontFamily: "customfont",
+                                fontSize: "32px"
+                            }}
+                        >
+                                Recent Works
+                    </s.TextDescription>
                     <div class="gallery">
                         <GalleryItem class="view overlay hm-black-light">
                             <img src="https://placeimg.com/640/480/arch" alt="Placeholder Image" class="img-fluid gallery-item"/>
-                            <div class="mask flex-center">
-                                <p class="white-text">Gallery Item</p>
-                            </div>
+                            <s.TextDescription
+                            style={{
+                                textAlign: "center",
+                                color: "white",
+                                fontWeight: "normal",
+                                fontFamily: "customfont",
+                                fontSize: "32px"
+                            }}
+                            >
+                                    Project Name
+                            </s.TextDescription>  
                         </GalleryItem>
                         <GalleryItem class="view overlay hm-black-light">
                             <img src="https://placeimg.com/640/480/any" alt="Placeholder Image" class="img-fluid gallery-item"/>
-                            <div class="mask flex-center">
-                                <p class="white-text">Gallery Item</p>
-                            </div>
+                            <s.TextDescription
+                            style={{
+                                textAlign: "center",
+                                color: "white",
+                                fontWeight: "normal",
+                                fontFamily: "customfont",
+                                fontSize: "32px"
+                            }}
+                            >
+                                    Project Name
+                            </s.TextDescription>  
                         </GalleryItem>
                         <GalleryItem class="view overlay hm-black-light">
                             <img src="https://placeimg.com/640/480/tech" alt="Placeholder Image" class="img-fluid gallery-item"/>
-                            <div class="mask flex-center">
-                                <p class="white-text">Gallery Item</p>
-                            </div>
+                            <s.TextDescription
+                            style={{
+                                textAlign: "center",
+                                color: "white",
+                                fontWeight: "normal",
+                                fontFamily: "customfont",
+                                fontSize: "32px"
+                            }}
+                            >
+                                    Project Name
+                            </s.TextDescription>  
                         </GalleryItem>
                         <GalleryItem class="view overlay hm-black-light">
                             <img src="https://placeimg.com/640/480/animals" alt="Placeholder Image" class="img-fluid gallery-item"/>
-                            <div class="mask flex-center">
-                                <p class="white-text">Gallery Item</p>
-                            </div>
+                            <s.TextDescription
+                            style={{
+                                textAlign: "center",
+                                color: "white",
+                                fontWeight: "normal",
+                                fontFamily: "customfont",
+                                fontSize: "32px"
+                            }}
+                            >
+                                    Project Name
+                            </s.TextDescription>  
                         </GalleryItem>
                         <GalleryItem class="view overlay hm-black-light">
                             <img src="https://placeimg.com/640/480/people" alt="Placeholder Image" class="img-fluid gallery-item"/>
-                            <div class="mask flex-center">
-                                <p class="white-text">Gallery Item</p>
-                            </div>
+                            <s.TextDescription
+                            style={{
+                                textAlign: "center",
+                                color: "white",
+                                fontWeight: "normal",
+                                fontFamily: "customfont",
+                                fontSize: "32px"
+                            }}
+                            >
+                                    Project Name
+                            </s.TextDescription>  
                         </GalleryItem>
                         <GalleryItem class="view overlay hm-black-light">
                             <img src="https://placeimg.com/640/480/any" alt="Placeholder Image" class="img-fluid gallery-item"/>
-                            <div class="mask flex-center">
-                                <p class="white-text">Gallery Item</p>
-                            </div>
+                            <s.TextDescription
+                            style={{
+                                textAlign: "center",
+                                color: "white",
+                                fontWeight: "normal",
+                                fontFamily: "customfont",
+                                fontSize: "32px"
+                            }}
+                            >
+                                    Project Name
+                            </s.TextDescription>  
                         </GalleryItem>
                     </div>
                     </div>
