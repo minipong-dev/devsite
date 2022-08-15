@@ -7,7 +7,6 @@
   --accent-text: #ffffff;
 }
 
-
 @font-face {
   font-family: "customfont";
   src: url("./assets/CodePro.ttf") format('truetype');
