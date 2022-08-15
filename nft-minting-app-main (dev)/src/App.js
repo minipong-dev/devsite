@@ -450,11 +450,12 @@ function App() {
                                 color: "white",
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
-                                fontSize: "20px",
-                                margin: "0px 25px 0px 25px"
+                                fontSize: "30px",
                             }}
-                        >
-                            (just kidding. we're not that cringe)<br/>
+                        >   
+                            <div class="jk">
+                                (just kidding. we're not that cringe)<br/>
+                            </div>
                             <a target="_blank" href="https://twitter.com/ViperwareLabs">
                                 <LogoButtonImg src="/config/images/TWIT_LOGO.png" />
                             </a>
