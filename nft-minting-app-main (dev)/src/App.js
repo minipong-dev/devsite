@@ -450,10 +450,12 @@ function App() {
                                 fontSize: "30px"
                             }}
                         >
-                            (just kidding. we're not that cring<br/>
+                            (just kidding. we're not that cringe)<br/>
                             <a target="_blank" href="https://twitter.com/ViperwareLabs">
                                 <LogoButtonImg src="/config/images/TWIT_LOGO.png" />
                             </a>
+                            <br/><br/><br/>
+                            <DownImg src="/config/images/down.png" />
                         </s.TextDescription>
                     </div>
                 </div>
@@ -490,7 +492,6 @@ function App() {
                             }}
                         >
 
-                            <DownImg src="/config/images/down.png" />
 
                         </s.TextDescription>
                         <s.SpacerLarge/>
