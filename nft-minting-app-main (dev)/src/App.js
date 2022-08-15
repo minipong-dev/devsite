@@ -575,8 +575,8 @@ function App() {
                     </s.TextDescription>
                     <s.SpacerMedium />
                     <div class="gallery">
-                        <GalleryItem class="view overlay hm-black-light">
-                            <img src="https://placeimg.com/640/480/arch" alt="Placeholder Image" class="img-fluid gallery-item"/>
+                        <GalleryItem href="https://boredapeyachtclub.com" class="view overlay hm-black-light">
+                            <img src="/config/images/BAYC.png" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <s.TextDescription
                             style={{
                                 textAlign: "center",
@@ -587,11 +587,11 @@ function App() {
                                 padding: "0px 0px 30px 0px"
                             }}
                             >
-                                    Project Name
+                                    Bored Ape Yacht Club
                             </s.TextDescription>  
                         </GalleryItem>
-                        <GalleryItem class="view overlay hm-black-light">
-                            <img src="https://placeimg.com/640/480/any" alt="Placeholder Image" class="img-fluid gallery-item"/>
+                        <GalleryItem href="https://boredapeyachtclub.com" class="view overlay hm-black-light">
+                            <img src="/config/images/NoNecks.png" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <s.TextDescription
                             style={{
                                 textAlign: "center",
@@ -602,11 +602,11 @@ function App() {
                                 padding: "0px 0px 30px 0px"
                             }}
                             >
-                                    Project Name
+                                   No Necks
                             </s.TextDescription>  
                         </GalleryItem>
-                        <GalleryItem class="view overlay hm-black-light">
-                            <img src="https://placeimg.com/640/480/tech" alt="Placeholder Image" class="img-fluid gallery-item"/>
+                        <GalleryItem href="https://boredapeyachtclub.com" class="view overlay hm-black-light">
+                            <img src="/config/images/CoolCats.png" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <s.TextDescription
                             style={{
                                 textAlign: "center",
@@ -617,11 +617,11 @@ function App() {
                                 padding: "0px 0px 30px 0px"
                             }}
                             >
-                                    Project Name
+                                    Cool Cats
                             </s.TextDescription>  
                         </GalleryItem>
-                        <GalleryItem class="view overlay hm-black-light">
-                            <img src="https://placeimg.com/640/480/animals" alt="Placeholder Image" class="img-fluid gallery-item"/>
+                        <GalleryItem href="https://boredapeyachtclub.com" class="view overlay hm-black-light">
+                            <img src="/config/images/Mosaicbirds.png" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <s.TextDescription
                             style={{
                                 textAlign: "center",
@@ -632,11 +632,11 @@ function App() {
                                 padding: "0px 0px 30px 0px"
                             }}
                             >
-                                    Project Name
+                                    Mosaicbirds
                             </s.TextDescription>  
                         </GalleryItem>
-                        <GalleryItem class="view overlay hm-black-light">
-                            <img src="https://placeimg.com/640/480/people" alt="Placeholder Image" class="img-fluid gallery-item"/>
+                        <GalleryItem href="https://boredapeyachtclub.com" class="view overlay hm-black-light">
+                            <img src="/config/images/Doodles.png" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <s.TextDescription
                             style={{
                                 textAlign: "center",
@@ -647,11 +647,11 @@ function App() {
                                 padding: "0px 0px 30px 0px"
                             }}
                             >
-                                    Project Name
+                                    Doodles
                             </s.TextDescription>  
                         </GalleryItem>
-                        <GalleryItem class="view overlay hm-black-light">
-                            <img src="https://placeimg.com/640/480/any" alt="Placeholder Image" class="img-fluid gallery-item"/>
+                        <GalleryItem href="https://boredapeyachtclub.com" class="view overlay hm-black-light">
+                            <img src="/config/images/Moonbirds.png" alt="Placeholder Image" class="img-fluid gallery-item"/>
                             <s.TextDescription
                             style={{
                                 textAlign: "center",
@@ -662,7 +662,7 @@ function App() {
                                 padding: "0px 0px 30px 0px"
                             }}
                             >
-                                    Project Name
+                                    Moonbirds
                             </s.TextDescription>  
                         </GalleryItem>
                     </div>
