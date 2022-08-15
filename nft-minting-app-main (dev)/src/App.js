@@ -450,7 +450,7 @@ function App() {
                                 color: "white",
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
-                                fontSize: "30px",
+                                fontSize: "24px",
                             }}
                         >   
                             <div class="jk">
