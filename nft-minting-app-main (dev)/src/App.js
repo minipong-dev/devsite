@@ -460,7 +460,7 @@ function App() {
                                 <LogoButtonImg src="/config/images/TWIT_LOGO.png" />
                             </a>
                             <br/><br/><br/>
-                            <DownImg src="/config/images/down.png" />
+                            {/* <DownImg src="/config/images/down.png" /> */}
                         </s.TextDescription>
                     </div>
                 </div>
@@ -507,7 +507,7 @@ function App() {
                     </s.TextDescription>
                     <s.Container>
                     </s.Container>
-                    <div class="container">
+                    {/* <div class="container">
                     <s.TextDescription
                             style={{
                                 textAlign: "center",
@@ -520,7 +520,7 @@ function App() {
                                 Recent Works
                     </s.TextDescription>
                     <s.SpacerMedium />
-                    <div class="gallery">
+                    <div class="gallery" style="visibility: hidden">
                         <a href="https://boredapeyachtclub.com" target="_blank" class="gallery-link">
                             <GalleryItem href="https://boredapeyachtclub.com" class="view overlay hm-black-light">
                                 <img src="/config/images/BAYC.png" alt="Placeholder Image" class="img-fluid gallery-item"/>
@@ -624,7 +624,7 @@ function App() {
                         </GalleryItem>
                         </a>
                     </div>
-                    </div>
+                    </div> */}
 
                 </s.Container>
                 <s.SpacerMedium />
